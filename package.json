@@ -5,11 +5,11 @@
     "build": "nuxi build",
     "start": "node .output/server/index.mjs"
   },
-  "devDependencies": {
-    "nuxt3": "latest"
-  },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^5.1.2",
+    "nuxt": "3.0.0-rc.3",
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.11",
     "tailwindcss": "^3.0.24"
   }
 }

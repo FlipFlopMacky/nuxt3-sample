@@ -1,3 +1,3 @@
 <template>
-  <h2>COMPONENT</h2>
+  <h2 class="text-[50px]">COMPONENT</h2>
 </template>

@@ -1,7 +1,10 @@
 module.exports = {
-  content: [],
+  mode: "jit",
   theme: {
-    extend: {},
+      extend: {},
+  },
+  variants: {
+      extend: {},
   },
   plugins: [],
 }
